@@ -1,0 +1,2 @@
+# manager
+information management system
